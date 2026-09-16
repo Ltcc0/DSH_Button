@@ -3,8 +3,8 @@
 <package format="3">
   <name>magic_button</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="ltcc4@todo.todo">ltcc4</maintainer>
+  <description>Custom WASD keyboard controller with a 360-degree magic action for ROS2 turtlesim.</description>
+  <maintainer email="ltcc4@todo.todo">ltcc</maintainer>
   <license>Apache-2.0</license>
 
   <depend>rclpy</depend>
