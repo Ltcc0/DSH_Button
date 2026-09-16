@@ -13,9 +13,9 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='ltcc4',
-    maintainer_email='ltcc4@todo.todo',
-    description='TODO: Package description',
+    maintainer='ltcc',
+    maintainer_email='ltcc426@gmail.com',
+    description='Custom WASD keyboard controller with a 360-degree magic action for ROS2 turtlesim.',
     license='Apache-2.0',
     extras_require={
         'test': [
